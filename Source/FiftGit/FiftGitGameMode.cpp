@@ -4,7 +4,7 @@
 #include "FiftGitGameMode.h"
 #include "FiftGitHUD.h"
 #include "FiftGitCharacter.h"
-/*And another irrelevant comment*/
+
 AFiftGitGameMode::AFiftGitGameMode()
 	: Super()
 {
