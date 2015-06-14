@@ -10,7 +10,7 @@ DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
 //////////////////////////////////////////////////////////////////////////
 // AFiftGitCharacter
-
+/*Adding some irrelevant comment*/
 AFiftGitCharacter::AFiftGitCharacter()
 {
 	// Set size for collision capsule
